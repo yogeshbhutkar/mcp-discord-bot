@@ -11,7 +11,7 @@
     "lint:fix": "eslint . --fix",
     "prettier": "prettier --ignore-path .gitignore --write \"./src/**/*.+(js|ts|json)\"",
     "prettier:fix": "prettier --write src",
-	"deploy-commands:dev": "node ./src/deploy-commands.ts"
+    "deploy-commands:dev": "node ./src/deploy-commands.ts"
   },
   "keywords": [],
   "author": "",
