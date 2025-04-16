@@ -11,7 +11,6 @@
 
 import 'dotenv/config';
 import { type APIApplicationCommand, REST, Routes } from 'discord.js';
-import { fileURLToPath } from 'node:url';
 import fs from 'node:fs';
 import path from 'node:path';
 
